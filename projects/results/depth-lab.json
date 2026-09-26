@@ -1,0 +1,216 @@
+{
+  "evidence": "Original synthetic teaching experiments",
+  "electrostatics": {
+    "bulk_hole_density_m-3": 1e+23,
+    "intrinsic_density_m-3": 1e+16,
+    "oxide_F_m-2": 0.01151044416444,
+    "phi_F_V": 0.416685005326322,
+    "threshold_V": 0.9778688444957615,
+    "charge_quadrature_max_error_C_m-2": 6.071532165918825e-18,
+    "gate_residual_max_V": 5.861977570020827e-13,
+    "flat_band_capacitance_F_m-2": 0.008012636129749567,
+    "root_at_gate_1V": 0.8516604356559716,
+    "trap_shift_for_1e11_cm-2_V": -0.013919329359589037
+  },
+  "materials": {
+    "normalized_wall_energy": 0.9428090415820625,
+    "analytic_wall_energy": 0.9428090415820635,
+    "series_stiffness": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      0.99,
+      1.01
+    ],
+    "stable_magnitude": [
+      1.0,
+      0.8660254037844386,
+      0.7071067811865476,
+      0.5,
+      0.10000000000000005,
+      0.0
+    ],
+    "barrier": [
+      0.25,
+      0.140625,
+      0.0625,
+      0.015625,
+      2.5000000000000045e-05,
+      0.0
+    ]
+  },
+  "inverse_design": [
+    {
+      "design": "clustered",
+      "condition_number": 343.00008578574955,
+      "slope_standard_error": 0.17064747028707497
+    },
+    {
+      "design": "spread",
+      "condition_number": 1.7149858514250882,
+      "slope_standard_error": 0.001706474702851906
+    }
+  ],
+  "programming": {
+    "field_frontier": [
+      {
+        "pulse_ns": 20.0,
+        "field_MV_cm": 5.406276852259902
+      },
+      {
+        "pulse_ns": 50.0,
+        "field_MV_cm": 1.5549305362534007
+      },
+      {
+        "pulse_ns": 100.0,
+        "field_MV_cm": 1.0104182857742325
+      },
+      {
+        "pulse_ns": 200.0,
+        "field_MV_cm": 0.7483558289218116
+      }
+    ],
+    "two_population_failure": 0.0033689734995427335,
+    "mean_rate_prediction": 1.1399918530443554e-12
+  },
+  "array_and_ecc": {
+    "elmore": [
+      {
+        "segments": 32,
+        "delay_in_rc_units": 528
+      },
+      {
+        "segments": 64,
+        "delay_in_rc_units": 2080
+      },
+      {
+        "segments": 128,
+        "delay_in_rc_units": 8256
+      },
+      {
+        "segments": 256,
+        "delay_in_rc_units": 32896
+      }
+    ],
+    "SEC_word_error_independent": 2.5548075085810407e-07,
+    "SEC_word_error_beta_binomial": 2.3571580171135643e-05,
+    "bit_correlation": 0.001,
+    "required_window_V": 0.3288007173762553,
+    "extra_sigma_budget_V": 0.011520053440907604
+  },
+  "controller": {
+    "reference_admission_cases": 1024,
+    "traces": [
+      {
+        "latency_cycles": 1,
+        "completion_edge": 1,
+        "earliest_next_acceptance_edge": 2
+      },
+      {
+        "latency_cycles": 2,
+        "completion_edge": 2,
+        "earliest_next_acceptance_edge": 3
+      },
+      {
+        "latency_cycles": 4,
+        "completion_edge": 4,
+        "earliest_next_acceptance_edge": 5
+      },
+      {
+        "latency_cycles": 255,
+        "completion_edge": 255,
+        "earliest_next_acceptance_edge": 256
+      }
+    ],
+    "limit": "Not a replacement for the delivered RTL and gate simulations"
+  },
+  "integration": {
+    "two_node_power_W": [
+      20.0,
+      5.0
+    ],
+    "temperature_rise_K": [
+      9.0,
+      6.999999999999999
+    ],
+    "poisson_yield_at_DA1": 0.36787944117144233,
+    "clustered_yield_alpha2_at_DA1": 0.4444444444444444,
+    "wafer_independent_two_tier_yield": 0.1353352832366127,
+    "known_good_die_bond_yield_example": 0.98
+  },
+  "workload_and_queue": {
+    "fixed_context_batch_sweep": [
+      {
+        "batch": 1,
+        "context": 128,
+        "KV_bytes": 2097152,
+        "FLOPs_per_byte": 1.8841170146551236,
+        "service_s": 0.0002462144,
+        "tokens_per_s": 4061.500870785787,
+        "bottleneck": "memory"
+      },
+      {
+        "batch": 2,
+        "context": 128,
+        "KV_bytes": 4194304,
+        "FLOPs_per_byte": 3.376907864712743,
+        "service_s": 0.0002724288,
+        "tokens_per_s": 7341.367726172856,
+        "bottleneck": "memory"
+      },
+      {
+        "batch": 4,
+        "context": 128,
+        "KV_bytes": 8388608,
+        "FLOPs_per_byte": 5.592308015283201,
+        "service_s": 0.0003248576,
+        "tokens_per_s": 12313.087334265845,
+        "bottleneck": "memory"
+      },
+      {
+        "batch": 8,
+        "context": 128,
+        "KV_bytes": 16777216,
+        "FLOPs_per_byte": 8.32215939267081,
+        "service_s": 0.0004297152,
+        "tokens_per_s": 18616.981665996456,
+        "bottleneck": "memory"
+      },
+      {
+        "batch": 16,
+        "context": 128,
+        "KV_bytes": 33554432,
+        "FLOPs_per_byte": 11.0091955448102,
+        "service_s": 0.0006394304000000001,
+        "tokens_per_s": 25022.26982013992,
+        "bottleneck": "memory"
+      }
+    ],
+    "M_M_1_mean_5ms_utilization_limit": 0.87211392,
+    "M_M_1_p99_5ms_utilization_limit": 0.4110628371811119,
+    "M_D_1_mean_at_rho_0_7_s": 0.0013854325333333335,
+    "M_M_1_mean_at_rho_0_7_s": 0.0021314346666666665
+  },
+  "uncertainty": {
+    "nominal_required_Pr_C_m2": 0.10686023314728298,
+    "box_robust_required_Pr_C_m2": 0.16029034972092446,
+    "increase_factor": 1.5,
+    "evidence": "Assumed independent uncertainty box, not measured confidence bounds"
+  },
+  "worked_examples": {
+    "tunnel_kappa_nm-1": 2.291150034217744,
+    "transmission_ratio_for_0_1nm_increase": 0.6324020026895598,
+    "linear_FE_voltage_fraction": 0.5416666666666666,
+    "sampled_thermal_noise_100fF_300K_V": 0.00020351773878460815,
+    "required_integration_time_ns": 0.30902323061678133,
+    "independent_extra_noise_sigma_V": 0.0368570931761301,
+    "maximum_context_at_batch16": 162,
+    "doubled_interface_step_s": 0.000565554432,
+    "doubled_interface_tokens_s": 28290.82241194425,
+    "M_M_1_p99_at_rho_0_7_s": 0.0098156193803148,
+    "retention_log_sensitivity_per_K": -0.09025736316761174,
+    "zero_failure_trials_for_1e-9_95pct": 2995732273.0,
+    "invalid_domain_cases_rejected": 4
+  }
+}

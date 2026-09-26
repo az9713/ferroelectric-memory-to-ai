@@ -1,0 +1,1491 @@
+[
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "diagnostic",
+    "section": "Diagnose the rust before studying everything again",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "bands",
+    "section": "From bonding to bands",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "statistics",
+    "section": "Occupation, doping, and the meaning of equilibrium",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "transport",
+    "section": "Drift, diffusion, and a junction's internal field",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "mos",
+    "section": "The gate voltage is a budget",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "swing",
+    "section": "The thermal slope and its assumptions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "poisson",
+    "section": "A memory claim starts with an electrostatic inverse problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-spring-2009/pages/lecture-notes/"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "inverse-gate",
+    "section": "Solve the gate budget and test its uniqueness",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "read-current",
+    "section": "Connect the electrostatic state to a read current",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2#page=1"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "deep-project",
+    "section": "A numerical experiment with independent checks",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "deep-solutions",
+    "section": "Worked problems: mechanism, scale, and identifiability",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "project",
+    "section": "Companion numerical electrostatics",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "01-foundations.html",
+    "anchor": "solutions",
+    "section": "Exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "symmetry",
+    "section": "Composition is not a phase",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "landau",
+    "section": "An energy landscape explains bistability",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "domains",
+    "section": "Domains, walls, and the failure of uniformity",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2507.18920v2",
+      "https://arxiv.org/pdf/2605.26536"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "hafnia",
+    "section": "Hafnia and zirconia: phase fractions are engineering variables",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2603.10127",
+      "https://arxiv.org/pdf/2601.20271",
+      "https://doi.org/10.1038/s41467-022-28860-1"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "perovskite",
+    "section": "BaTiO\u2083: a related mechanism in a different materials platform",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2407.13953"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "oxide",
+    "section": "Oxide channels: retain electrostatics, revisit transport and stability",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2",
+      "https://arxiv.org/pdf/2606.08378#page=1"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "interfaces",
+    "section": "Depolarization: an interface can undo a bulk advantage",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "measurement",
+    "section": "Characterization must identify what changed",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.20482"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "bonding",
+    "section": "From chemical bonding to an experiment you can interpret",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2407.13953",
+      "https://www.nature.com/articles/s41598-021-91492-w.pdf#page=3",
+      "https://arxiv.org/pdf/2606.08378",
+      "https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content#page=49"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "self-consistency",
+    "section": "Let the polarization respond to its own depolarizing field",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "wall-profile",
+    "section": "Derive a domain wall rather than assigning a domain size",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2507.18920v2"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "measurement-design",
+    "section": "Design an experiment that separates processing mechanisms",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2407.13953",
+      "https://arxiv.org/pdf/2603.10127",
+      "https://arxiv.org/pdf/2601.20271"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "02-materials.html",
+    "anchor": "solutions",
+    "section": "Foundation exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "charge",
+    "section": "The instrument measures charge, not a unique polarization",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "branches",
+    "section": "Reconstructing a saturated major loop",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://www.nature.com/articles/s41598-021-91492-w.pdf#page=2"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "bias",
+    "section": "Why a charge zero crossing underestimates coercive field",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41598-021-91492-w/MediaObjects/41598_2021_91492_MOESM1_ESM.pdf#page=3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "energy",
+    "section": "A loop area is an energy density, not facility energy",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "fit",
+    "section": "A small residual is not an identified physical mechanism",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2#page=3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "circuit",
+    "section": "From constitutive model to circuit: state the boundary",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content#page=49"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "measurement-chain",
+    "section": "Reconstruct the measurement before fitting the material",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "sensitivity",
+    "section": "Turn fit uncertainty into an experimental-design problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "history",
+    "section": "A hysteresis model is a state machine as well as an equation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41598-021-91492-w/MediaObjects/41598_2021_91492_MOESM1_ESM.pdf",
+      "https://www.nature.com/articles/s41598-021-91492-w.pdf#page=2"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "dynamics-energy",
+    "section": "Add time without violating the energy accounting",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "model-selection",
+    "section": "Validation asks a different question from optimization",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "project",
+    "section": "Run and challenge the numerical project",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "03-models.html",
+    "anchor": "exercises",
+    "section": "Exercises with complete solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "taxonomy",
+    "section": "Three ways to read polarization",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content#page=49"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "program",
+    "section": "Programming is a field-and-time problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "traps",
+    "section": "Screening can help one observable and hurt another",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.20482",
+      "https://arxiv.org/pdf/2603.10127"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "retention",
+    "section": "Retention requires a clock and a temperature",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2603.06881v3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "endurance",
+    "section": "Endurance, first-switch damage, and test conventions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2601.21107",
+      "https://iris.unimo.it/retrieve/878aa781-0649-4375-b52a-17c6b5993821/%28L.%20Fernandes%20-%20ACS-NL%2C%202026%29%20published%20version.pdf"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "operating-cycle",
+    "section": "Follow one bit through a complete operating cycle",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "voltage-allocation",
+    "section": "Programming voltage is distributed across a nonlinear stack",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content#page=49"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "write-frontier",
+    "section": "Derive the speed\u2013field frontier and expose its tail risk",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "retention-inference",
+    "section": "Retention extrapolation is an inference problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2603.06881v3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "failure-statistics",
+    "section": "What can a finite reliability experiment establish?",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2601.21107",
+      "https://iris.unimo.it/retrieve/878aa781-0649-4375-b52a-17c6b5993821/%28L.%20Fernandes%20-%20ACS-NL%2C%202026%29%20published%20version.pdf"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "read-mechanisms",
+    "section": "Compare sensing mechanisms through their derivatives",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2601.21107",
+      "https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content#page=49"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "numerical",
+    "section": "Two models, two questions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "04-devices.html",
+    "anchor": "solutions",
+    "section": "Exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "path",
+    "section": "The complete access path",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "sense",
+    "section": "Sensing time follows from charge",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "rc",
+    "section": "Longer wires can dominate latency",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "energy",
+    "section": "Peripherals can erase a switching-energy gain",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "probability",
+    "section": "State separation becomes an error probability",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "optimization",
+    "section": "Optimize a finite design space transparently",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "charge-sharing",
+    "section": "Follow a read signal from cell to decision",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2504.09713"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "sense-offset",
+    "section": "Derive a decision threshold before quoting a bit-error rate",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "distributed-line",
+    "section": "Discretize the wire and recover the length law",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "select-disturb",
+    "section": "Selected-cell success can coexist with array failure",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2512.15988"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "optimization-contract",
+    "section": "Audit the optimum against the access pattern",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "regeneration",
+    "section": "Regeneration adds another time and noise scale",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "05-arrays.html",
+    "anchor": "solutions",
+    "section": "Foundation exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "roles",
+    "section": "Storage, working memory, cache, and compute-in-memory",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "capacity",
+    "section": "Raw capacity is not usable capacity",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "ecc",
+    "section": "From raw bit errors to protected-word failures",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "wear",
+    "section": "Wear spreading converts lifetime into an allocation problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "bandwidth",
+    "section": "Latency and bandwidth are different contracts",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "contract",
+    "section": "The demonstrator's service contract",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "code-budget",
+    "section": "Derive the redundancy instead of treating ECC as a label",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "correlated-errors",
+    "section": "Correlation can dominate the protected-word failure rate",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "scrubbing",
+    "section": "Time between repairs is part of the error budget",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "mapping",
+    "section": "Logical addresses hide a physical allocation problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "concurrency",
+    "section": "Derive the concurrency needed to use the bandwidth",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "persistence",
+    "section": "Nonvolatile bits do not make a transaction crash-consistent",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2504.09713",
+      "https://arxiv.org/pdf/2512.15988"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "service-design",
+    "section": "Turn the reliability lesson into a constrained design study",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "project",
+    "section": "Reliability project",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "06-memory.html",
+    "anchor": "solutions",
+    "section": "Exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "hdl",
+    "section": "Hardware-description languages describe concurrent machinery",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "handshake",
+    "section": "Define acceptance before implementing latency",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "invariants",
+    "section": "Verify invariants, not just one happy trace",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "fault",
+    "section": "Errors and reset have observable semantics",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "run",
+    "section": "Run both RTL and synthesized-logic simulation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "bridge",
+    "section": "Relate the digital boundary to the circuit",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "transition-system",
+    "section": "Derive the controller as a transition system",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "edge-trace",
+    "section": "Read an edge trace without confusing old and new values",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "throughput",
+    "section": "Latency and initiation interval diverge even in a tiny controller",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "verification-method",
+    "section": "Build a testbench that can disagree with the implementation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "implementation-levels",
+    "section": "What synthesis preserves and what timing adds",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://steveicarus.github.io/iverilog/usage/simulation.html",
+      "https://yosyshq.readthedocs.io/projects/yosys/en/latest/using_yosys/synthesis/"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "physical-bridge",
+    "section": "Refine the digital contract into an analog operation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "verification-plan",
+    "section": "A reproducible modification exercise",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "07-rtl.html",
+    "anchor": "solutions",
+    "section": "Foundation exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "hierarchy",
+    "section": "The hierarchy carries different kinds of information",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "pdk",
+    "section": "A PDK is a process contract",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://skywater-pdk.readthedocs.io/en/main/contents/libraries/foundry-provided.html"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "flow",
+    "section": "What each physical-design step would establish",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "views",
+    "section": "The delivered abstract views are deliberately explicit",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "placement",
+    "section": "Placement is an optimization problem with geometry",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "thermal",
+    "section": "Process temperature, operating temperature, and packaging",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2606.08378"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "yield",
+    "section": "Density is not usable silicon per dollar",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "macro-contract",
+    "section": "A memory macro is a set of mutually consistent views",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://skywater-pdk.readthedocs.io/en/main/contents/libraries/foundry-provided.html"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "finite-placement",
+    "section": "Replace point placement with legal rectangles",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "thermal-network",
+    "section": "Derive a coupled thermal network",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "process-budget",
+    "section": "Thermal budget is an accumulated process history",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2606.08378"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "yield-economics",
+    "section": "Yield models change the meaning of density",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "power-delivery",
+    "section": "Programming pulses create a power-delivery problem",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "timing-corners",
+    "section": "Carry operating conditions through the interface",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "08-integration.html",
+    "anchor": "solutions",
+    "section": "Foundation exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "transformer",
+    "section": "The relevant transformer computation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "weights",
+    "section": "Weight traffic and arithmetic intensity",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-134.html"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "kv",
+    "section": "Derive KV-cache capacity",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/abs/2309.06180"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "prefill",
+    "section": "Prefill and decoding stress different resources",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "precision",
+    "section": "Numerical precision is a constrained choice",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "placement",
+    "section": "Where could Khan's research enter the path?",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2#page=1",
+      "https://arxiv.org/pdf/2603.06881v3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "attention-algebra",
+    "section": "Derive the bytes from the attention computation",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "batch-frontier",
+    "section": "Batching changes both reuse and demand",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/abs/2309.06180"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "latency-contract",
+    "section": "Time to first token is a scheduling outcome",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "quantization-bound",
+    "section": "Propagate numerical error through a linear layer",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "cim-budget",
+    "section": "Map a dot product into a physical memory and count the missing work",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2504.09713"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "research-placement",
+    "section": "Match the research claim to the workload boundary",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2",
+      "https://arxiv.org/pdf/2603.06881v3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "hierarchical-roofline",
+    "section": "A memory hierarchy has several bandwidth ceilings",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "project",
+    "section": "Optimize batching under a capacity ceiling",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "09-workloads.html",
+    "anchor": "solutions",
+    "section": "Exercises and solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "budget",
+    "section": "Account for energy once",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://www.energy.gov/sites/default/files/2024-07/best-practice-guide-data-center-design.pdf"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "queue",
+    "section": "Why maximum utilization is not the answer",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "worked",
+    "section": "Work the full budget",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "amdahl",
+    "section": "Fixed architecture versus redesign",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "network",
+    "section": "Communication can replace memory as the bottleneck",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "thermal",
+    "section": "Thermal and rack limits constrain throughput",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "tail-latency",
+    "section": "Derive a tail constraint instead of relabeling the mean",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "service-variance",
+    "section": "Service variability changes waiting even at the same utilization",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "energy-optimum",
+    "section": "Energy efficiency has a constrained optimum",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "useful-work",
+    "section": "The denominator must count useful output",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "network-overlap",
+    "section": "Communication overlap is constrained by dependencies",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "measurement-protocol",
+    "section": "Measure the intervention without moving the goalposts",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "uncertainty-budget",
+    "section": "Decide whether a calculated saving is distinguishable",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "10-systems.html",
+    "anchor": "project",
+    "section": "Project and complete solutions",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "contract",
+    "section": "Freeze the comparison contract",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "chain",
+    "section": "Make each transition inspectable",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "upward",
+    "section": "Follow the intervention upward",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "downward",
+    "section": "Solve the reliability requirement backward",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "redesign",
+    "section": "Compare architecture reselection honestly",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "execution",
+    "section": "Execute and interpret",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "reading",
+    "section": "Read a new paper as a falsifiable proposition",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2",
+      "https://arxiv.org/pdf/2609.20482"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "causal-model",
+    "section": "Write the cross-stack claim as a causal model",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "nonsmooth",
+    "section": "Feasibility boundaries make linear sensitivity unreliable",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "robust",
+    "section": "Propagate two uncertainties together",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "system-contract-change",
+    "section": "Tighten the service contract and track what breaks",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "research-dossiers",
+    "section": "Read three research contributions at their actual evidence level",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [
+      "https://arxiv.org/pdf/2609.12184v2",
+      "https://arxiv.org/pdf/2609.20482",
+      "https://www.nature.com/articles/s41598-021-91492-w.pdf#page=3"
+    ],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "next-experiment",
+    "section": "Choose the next measurement by its decision value",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "defensible-report",
+    "section": "Write a conclusion that survives an adversarial reading",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "reproduce-chain",
+    "section": "Reproduce the chain and preserve the comparison",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  },
+  {
+    "chapter": "11-capstone.html",
+    "anchor": "solutions",
+    "section": "Complete solutions and assessment rubric",
+    "source_spine": "Paper-based; no verified lecture transcript",
+    "transcript_span": null,
+    "citations": [],
+    "evidence": "Original derivation/teaching construction unless adjacent text attributes a reported observation; linked papers remain authors' evidence"
+  }
+]

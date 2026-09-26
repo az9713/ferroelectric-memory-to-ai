@@ -4,7 +4,7 @@ From materials physics to memory systems and AI infrastructure.
 
 **[Read the course as web pages](https://az9713.github.io/ferroelectric-memory-to-ai/)**
 
-An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. Ten chapters and a capstone include worked examples, complete exercise solutions, source provenance, and executable projects.
+An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. All ten chapters and the capstone are now expanded to approximately **50,000 words with 82 worked solutions**, sustained derivations, paper analysis, counterexamples, and executable experiments. Each chapter has section navigation. [See the depth revision and evidence](https://az9713.github.io/ferroelectric-memory-to-ai/textbook-depth.html).
 
 ## Start here
 
@@ -36,6 +36,7 @@ An independent graduate-level learning program connecting materials physics, fer
 - [Run the cumulative Python projects](https://az9713.github.io/ferroelectric-memory-to-ai/projects/guide.html)
 - [SPICE and process feasibility](https://az9713.github.io/ferroelectric-memory-to-ai/research/feasibility.html)
 - [Engineering reproduction instructions](https://az9713.github.io/ferroelectric-memory-to-ai/hardware/README.html)
+- [Expanded textbook source map](https://az9713.github.io/ferroelectric-memory-to-ai/research/depth-source-map.html)
 - [Scientific claim-to-source ledger](https://az9713.github.io/ferroelectric-memory-to-ai/research/source-ledger.html)
 - [Researcher identity and coverage](https://az9713.github.io/ferroelectric-memory-to-ai/research/identity-and-coverage.html)
 - [About, verification, and limitations](https://az9713.github.io/ferroelectric-memory-to-ai/about.html)
@@ -54,6 +55,7 @@ For Python calculations, use Python 3.13 and install `requirements.txt`. Then ru
 python projects/polarization.py
 python projects/stack.py all
 python projects/capstone.py
+python projects/depth_lab.py
 ```
 
 SPICE requires ngspice. RTL simulation and synthesis require Icarus Verilog and Yosys; run `bash hardware/run-rtl.sh` from Linux, macOS, or WSL. See the engineering guide for the tested versions and model boundaries.
