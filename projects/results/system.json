@@ -1,0 +1,119 @@
+{
+  "evidence": "T: M/M/1 assumptions; no measured serving system",
+  "rows": [
+    {
+      "utilization": 0.1,
+      "tokens_s": 2502.2269820139923,
+      "batch_response_s": 0.0007104782222222224,
+      "IT_power_W": 45.210998467676234,
+      "facility_W": 54.25319816121148,
+      "facility_J_token": 0.0216819651259392,
+      "feasible": true
+    },
+    {
+      "utilization": 0.3,
+      "tokens_s": 7506.680946041976,
+      "batch_response_s": 0.0009134720000000002,
+      "IT_power_W": 45.632995403028694,
+      "facility_W": 54.75959448363443,
+      "facility_J_token": 0.0072947811259392,
+      "feasible": true
+    },
+    {
+      "utilization": 0.5,
+      "tokens_s": 12511.13491006996,
+      "batch_response_s": 0.0012788608000000002,
+      "IT_power_W": 46.05499233838116,
+      "facility_W": 55.265990806057395,
+      "facility_J_token": 0.004417344325939201,
+      "feasible": true
+    },
+    {
+      "utilization": 0.7,
+      "tokens_s": 17515.588874097943,
+      "batch_response_s": 0.0021314346666666665,
+      "IT_power_W": 46.47698927373362,
+      "facility_W": 55.77238712848035,
+      "facility_J_token": 0.003184157125939201,
+      "feasible": true
+    },
+    {
+      "utilization": 0.9,
+      "tokens_s": 22520.04283812593,
+      "batch_response_s": 0.0063943040000000026,
+      "IT_power_W": 46.89898620908609,
+      "facility_W": 56.278783450903305,
+      "facility_J_token": 0.0024990531259392003,
+      "feasible": false
+    },
+    {
+      "utilization": 0.98,
+      "tokens_s": 24521.824423737122,
+      "batch_response_s": 0.031971519999999976,
+      "IT_power_W": 47.06778498322707,
+      "facility_W": 56.48134197987248,
+      "facility_J_token": 0.0023033091259392004,
+      "feasible": false
+    }
+  ],
+  "chosen": {
+    "utilization": 0.7,
+    "tokens_s": 17515.588874097943,
+    "batch_response_s": 0.0021314346666666665,
+    "IT_power_W": 46.47698927373362,
+    "facility_W": 55.77238712848035,
+    "facility_J_token": 0.003184157125939201,
+    "feasible": true
+  },
+  "device_10x_speedup_at_5pct_time_fraction": 1.0471204188481675,
+  "device_10x_energy_gain_at_5pct_energy_fraction_ratio": 0.955,
+  "redesigned_70pct_affected_energy_fraction_ratio": 0.37,
+  "robustness": [
+    {
+      "PUE": 1.1,
+      "idle_W": 25,
+      "J_token": 0.0016627866987776005
+    },
+    {
+      "PUE": 1.1,
+      "idle_W": 45,
+      "J_token": 0.0029188106987776013
+    },
+    {
+      "PUE": 1.1,
+      "idle_W": 80,
+      "J_token": 0.005116852698777602
+    },
+    {
+      "PUE": 1.2,
+      "idle_W": 25,
+      "J_token": 0.0018139491259392005
+    },
+    {
+      "PUE": 1.2,
+      "idle_W": 45,
+      "J_token": 0.003184157125939201
+    },
+    {
+      "PUE": 1.2,
+      "idle_W": 80,
+      "J_token": 0.005582021125939201
+    },
+    {
+      "PUE": 1.5,
+      "idle_W": 25,
+      "J_token": 0.0022674364074240006
+    },
+    {
+      "PUE": 1.5,
+      "idle_W": 45,
+      "J_token": 0.003980196407424001
+    },
+    {
+      "PUE": 1.5,
+      "idle_W": 80,
+      "J_token": 0.006977526407424001
+    }
+  ],
+  "checks": "PASS: Amdahl bound, feasibility, energy/power separation"
+}

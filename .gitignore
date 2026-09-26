@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+hardware/controller-sim
+hardware/controller-gate-sim

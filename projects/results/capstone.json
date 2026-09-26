@@ -1,0 +1,266 @@
+{
+  "evidence": "T: conditional sensitivity model, not a measured material-to-system forecast",
+  "fixed_conditions": "64MiB, B16, S128, quality assumed fixed, 1TFLOP/s, interface80GB/s, utilization0.7, idle45W, PUE1.2",
+  "coupling_V_per_C_m2": 3.076923076923077,
+  "downward_window_for_BER_1e_3_V": 0.3288007173762553,
+  "downward_Pr_C_m2_under_assumed_coupling": 0.10686023314728298,
+  "rows": [
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 0.8,
+      "mode": "fixed architecture",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 0.8,
+      "mode": "reselected array",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 1.0,
+      "mode": "fixed architecture",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 1.0,
+      "mode": "reselected array",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 1.2,
+      "mode": "fixed architecture",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.08,
+      "sigma_factor": 1.2,
+      "mode": "reselected array",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 0.8,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.3076923076923077,
+      "BER": 0.00015028616339985936,
+      "memory_pJ_byte": 5.142674556213018,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.00318391433854455
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 0.8,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.3076923076923077,
+      "BER": 0.00015028616339985936,
+      "memory_pJ_byte": 5.142674556213018,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.00318391433854455
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 1.0,
+      "mode": "fixed architecture",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 1.0,
+      "mode": "reselected array",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 1.2,
+      "mode": "fixed architecture",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.1,
+      "sigma_factor": 1.2,
+      "mode": "reselected array",
+      "feasible": false
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 0.8,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 1.305605268053231e-06,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 0.8,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 1.305605268053231e-06,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 1.0,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 8.516118106154207e-05,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 1.0,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 8.516118106154207e-05,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 1.2,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 0.0008656422920494004,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.13,
+      "sigma_factor": 1.2,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.4,
+      "BER": 0.0008656422920494004,
+      "memory_pJ_byte": 5.208,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.003184157125939201
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 0.8,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 3.653978144951115e-09,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 0.8,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 3.653978144951115e-09,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 1.0,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 1.8554324124650381e-06,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 1.0,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 1.8554324124650381e-06,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 1.2,
+      "mode": "fixed architecture",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 5.767745793511208e-05,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    },
+    {
+      "Pr_C_m2": 0.16,
+      "sigma_factor": 1.2,
+      "mode": "reselected array",
+      "feasible": true,
+      "banks": 32,
+      "width_bits": 256,
+      "window_V": 0.49230769230769234,
+      "BER": 5.767745793511208e-05,
+      "memory_pJ_byte": 5.290366863905326,
+      "step_s": 0.0006394304000000001,
+      "tokens_s": 17515.588874097943,
+      "facility_J_token": 0.0031844632491759345
+    }
+  ],
+  "checks": "PASS: baseline matches cumulative model; infeasible interventions retained"
+}

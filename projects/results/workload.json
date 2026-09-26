@@ -1,0 +1,218 @@
+{
+  "evidence": "T: hypothetical 16M-parameter workload; fixed assumed numerical quality",
+  "memory_bandwidth_B_s": 80000000000.0,
+  "compute_FLOP_s": 1000000000000.0,
+  "chosen": {
+    "batch": 16,
+    "context": 128,
+    "kv_bytes": 33554432,
+    "capacity_bytes": 57943040,
+    "latency_s": 0.0006394304000000001,
+    "tokens_s": 25022.26982013992,
+    "dynamic_J_per_token": 8.4324271616e-05,
+    "feasible": true
+  },
+  "rows": [
+    {
+      "batch": 1,
+      "context": 128,
+      "kv_bytes": 2097152,
+      "capacity_bytes": 26485760,
+      "latency_s": 0.0002462144,
+      "tokens_s": 4061.500870785787,
+      "dynamic_J_per_token": 0.000162444271616,
+      "feasible": true
+    },
+    {
+      "batch": 1,
+      "context": 512,
+      "kv_bytes": 8388608,
+      "capacity_bytes": 32777216,
+      "latency_s": 0.0003248576,
+      "tokens_s": 3078.2718335664613,
+      "dynamic_J_per_token": 0.00020779308646399998,
+      "feasible": true
+    },
+    {
+      "batch": 1,
+      "context": 1024,
+      "kv_bytes": 16777216,
+      "capacity_bytes": 41165824,
+      "latency_s": 0.0004297152,
+      "tokens_s": 2327.122708249557,
+      "dynamic_J_per_token": 0.000268258172928,
+      "feasible": true
+    },
+    {
+      "batch": 1,
+      "context": 2048,
+      "kv_bytes": 33554432,
+      "capacity_bytes": 57943040,
+      "latency_s": 0.0006394304000000001,
+      "tokens_s": 1563.891863758745,
+      "dynamic_J_per_token": 0.00038918834585600004,
+      "feasible": true
+    },
+    {
+      "batch": 2,
+      "context": 128,
+      "kv_bytes": 4194304,
+      "capacity_bytes": 28582912,
+      "latency_s": 0.0002724288,
+      "tokens_s": 7341.367726172856,
+      "dynamic_J_per_token": 0.000120780271616,
+      "feasible": true
+    },
+    {
+      "batch": 2,
+      "context": 512,
+      "kv_bytes": 16777216,
+      "capacity_bytes": 41165824,
+      "latency_s": 0.0004297152,
+      "tokens_s": 4654.245416499114,
+      "dynamic_J_per_token": 0.000166129086464,
+      "feasible": true
+    },
+    {
+      "batch": 2,
+      "context": 1024,
+      "kv_bytes": 33554432,
+      "capacity_bytes": 57943040,
+      "latency_s": 0.0006394304000000001,
+      "tokens_s": 3127.78372751749,
+      "dynamic_J_per_token": 0.000226594172928,
+      "feasible": true
+    },
+    {
+      "batch": 2,
+      "context": 2048,
+      "kv_bytes": 67108864,
+      "capacity_bytes": 91497472,
+      "latency_s": 0.0010588608,
+      "tokens_s": 1888.8224023403263,
+      "dynamic_J_per_token": 0.00034752434585599997,
+      "feasible": false
+    },
+    {
+      "batch": 4,
+      "context": 128,
+      "kv_bytes": 8388608,
+      "capacity_bytes": 32777216,
+      "latency_s": 0.0003248576,
+      "tokens_s": 12313.087334265845,
+      "dynamic_J_per_token": 9.9948271616e-05,
+      "feasible": true
+    },
+    {
+      "batch": 4,
+      "context": 512,
+      "kv_bytes": 33554432,
+      "capacity_bytes": 57943040,
+      "latency_s": 0.0006394304000000001,
+      "tokens_s": 6255.56745503498,
+      "dynamic_J_per_token": 0.00014529708646399998,
+      "feasible": true
+    },
+    {
+      "batch": 4,
+      "context": 1024,
+      "kv_bytes": 67108864,
+      "capacity_bytes": 91497472,
+      "latency_s": 0.0010588608,
+      "tokens_s": 3777.6448046806527,
+      "dynamic_J_per_token": 0.000205762172928,
+      "feasible": false
+    },
+    {
+      "batch": 4,
+      "context": 2048,
+      "kv_bytes": 134217728,
+      "capacity_bytes": 158606336,
+      "latency_s": 0.0018977216,
+      "tokens_s": 2107.7907317912172,
+      "dynamic_J_per_token": 0.000326692345856,
+      "feasible": false
+    },
+    {
+      "batch": 8,
+      "context": 128,
+      "kv_bytes": 16777216,
+      "capacity_bytes": 41165824,
+      "latency_s": 0.0004297152,
+      "tokens_s": 18616.981665996456,
+      "dynamic_J_per_token": 8.953227161599999e-05,
+      "feasible": true
+    },
+    {
+      "batch": 8,
+      "context": 512,
+      "kv_bytes": 67108864,
+      "capacity_bytes": 91497472,
+      "latency_s": 0.0010588608,
+      "tokens_s": 7555.289609361305,
+      "dynamic_J_per_token": 0.000134881086464,
+      "feasible": false
+    },
+    {
+      "batch": 8,
+      "context": 1024,
+      "kv_bytes": 134217728,
+      "capacity_bytes": 158606336,
+      "latency_s": 0.0018977216,
+      "tokens_s": 4215.5814635824345,
+      "dynamic_J_per_token": 0.000195346172928,
+      "feasible": false
+    },
+    {
+      "batch": 8,
+      "context": 2048,
+      "kv_bytes": 268435456,
+      "capacity_bytes": 292824064,
+      "latency_s": 0.0035754432000000003,
+      "tokens_s": 2237.48485222755,
+      "dynamic_J_per_token": 0.00031627634585599997,
+      "feasible": false
+    },
+    {
+      "batch": 16,
+      "context": 128,
+      "kv_bytes": 33554432,
+      "capacity_bytes": 57943040,
+      "latency_s": 0.0006394304000000001,
+      "tokens_s": 25022.26982013992,
+      "dynamic_J_per_token": 8.4324271616e-05,
+      "feasible": true
+    },
+    {
+      "batch": 16,
+      "context": 512,
+      "kv_bytes": 134217728,
+      "capacity_bytes": 158606336,
+      "latency_s": 0.0018977216,
+      "tokens_s": 8431.162927164869,
+      "dynamic_J_per_token": 0.00012967308646399999,
+      "feasible": false
+    },
+    {
+      "batch": 16,
+      "context": 1024,
+      "kv_bytes": 268435456,
+      "capacity_bytes": 292824064,
+      "latency_s": 0.0035754432000000003,
+      "tokens_s": 4474.9697044551,
+      "dynamic_J_per_token": 0.000190138172928,
+      "feasible": false
+    },
+    {
+      "batch": 16,
+      "context": 2048,
+      "kv_bytes": 536870912,
+      "capacity_bytes": 561259520,
+      "latency_s": 0.0069308864,
+      "tokens_s": 2308.5070330975273,
+      "dynamic_J_per_token": 0.000311068345856,
+      "feasible": false
+    }
+  ],
+  "checks": "PASS: capacity rejects otherwise attractive batches; latency constraint enforced"
+}

@@ -1,0 +1,10 @@
+{
+  "evidence": "T: all kinetic/barrier parameters assumed; no measured lifetime forecast",
+  "tau_s": 2e-08,
+  "final_state": 1.000000000481258,
+  "min_grid_field_MV_cm": 1.025,
+  "grid_step_MV_cm": 0.025000000000000022,
+  "temperature_acceleration_300_to_358K": 80.38361715295198,
+  "retention_seconds_at_300K_for_tau0_1ns_barrier_0_7eV": 574.7545693668724,
+  "checks": "PASS: ODE convergence, stable switched state, finite constrained sweep"
+}

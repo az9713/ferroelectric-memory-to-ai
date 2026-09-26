@@ -1,0 +1,43 @@
+model,parameter,value,unit,source,extraction,status,uncertainty,scope
+static-capacitor,Ps,0.14,C/m2,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,14 microC/cm2 times 0.01,published synthetic,exact chosen input; no experimental uncertainty,major-loop teaching reproduction
+static-capacitor,Pr,0.13,C/m2,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,13 microC/cm2 times 0.01,published synthetic,exact chosen input; no experimental uncertainty,major-loop teaching reproduction
+static-capacitor,Ec_positive,1e8,V/m,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,1 MV/cm times 1e8,published synthetic,exact chosen input; no experimental uncertainty,major-loop teaching reproduction
+static-capacitor,Ec_negative,-1e8,V/m,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,signed reverse coercive field,published synthetic,exact chosen input; no experimental uncertainty,major-loop teaching reproduction
+static-capacitor,relative_permittivity,33,1,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,direct,published synthetic,exact chosen input; no experimental uncertainty,linear background
+static-capacitor,thickness,1e-8,m,https://www.nature.com/articles/s41598-021-91492-w.pdf p3 Fig2,10nm,published synthetic,exact chosen input; no experimental uncertainty,uniform field
+static-capacitor,area,1e-12,m2,teaching construction,1 square micrometer,assumed,geometry choice not measurement,charge and energy normalization
+static-capacitor,temperature,,K,not parameterized,none,missing,no thermal model,not predictive outside unspecified source conditions
+static-capacitor,switching_time,,s,not given by static fit,none,missing,unidentifiable from static curves,requires pulse-resolved data
+static-capacitor,retention_time,,s,not given by static fit,none,missing,requires time and temperature data,no retention prediction
+static-capacitor,endurance,,cycles,not given by static fit,none,missing,requires failure criterion and stress protocol,no cycling degradation prediction
+static-capacitor,variability_distribution,,,not given,none,missing,requires device and cycle ensembles,no statistical prediction
+demonstrator,relaxation_time,2e-8,s,teaching choice,chosen,assumed,arbitrary illustrative scale,Landau transient only
+demonstrator,threshold_low_asymptote,0.3,V,teaching choice,chosen,assumed,not calibrated,limit as normalized state tends to +/-infinity; states +/-1 yield approx 0.301/0.699V
+demonstrator,threshold_high_asymptote,0.7,V,teaching choice,chosen,assumed,not calibrated,limit as normalized state tends to +/-infinity; states +/-1 yield approx 0.301/0.699V
+ZrO2-pFeFET,FE_thickness,5e-9,m,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p50-52,reported geometry,published,not supplied,separate empirical device
+ZrO2-pFeFET,SiO2_thickness,1.5e-9,m,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p50-52,reported geometry,published,not supplied,separate empirical device
+ZrO2-pFeFET,W,30e-6,m,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p52 Fig3.10,caption not corrupted OCR units,published,not supplied,separate empirical device
+ZrO2-pFeFET,L,8e-6,m,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p52 Fig3.10,caption,published,not supplied,separate empirical device
+ZrO2-pFeFET,read_VD,-0.05,V,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p50,reported,published,not supplied,p-channel protocol
+ZrO2-pFeFET,write_pulse_duration,1e-5,s,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p52 Fig3.10,reported,published,not supplied,p-channel protocol
+ZrO2-pFeFET,I0,,A,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content p53 Eq3.6,not resolved in available parameter statement,missing,barrier-prefactor degeneracy,blocks quantitative reconstruction
+ZrO2-pFeFET,baseline_MOS_model,,,not verified,none,missing,geometry alone insufficient,blocks predictive transistor simulation
+laminated-oxide-FeFET,HZO_Al2O3_HZO,8/3/8,nm,https://arxiv.org/pdf/2606.08378 p1,reported,published,not supplied,distinct 2026 device no mixing
+demonstrator,state_capacitance,1e-12,F,hardware/teaching-cell.cir,direct declaration,assumed,not measured,mathematical ODE scaling; not physical FE capacitance
+demonstrator,read_VG,0.5,V,hardware/teaching-cell.cir,direct declaration,assumed,not measured,ideal read path
+demonstrator,read_VD,0.05,V,hardware/teaching-cell.cir,direct declaration,assumed,not measured,small-drain approximation
+demonstrator,conductance_beta,0.001,A/V2,hardware/teaching-cell.cir,direct declaration,assumed,not measured,not calibrated
+demonstrator,write_forcing,+/-1.2,normalized represented V,hardware/teaching-cell.cir,direct declaration,assumed,not measured,not experimental terminal programming voltage
+ZrO2-pFeFET,program_VG,3.4,V,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.10,direct declaration,published,not supplied,10us pulse
+ZrO2-pFeFET,erase_VG,-7,V,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.10,direct declaration,published,not supplied,10us pulse
+ZrO2-pFeFET,threshold_current_criterion,1e-8,A,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.10,direct declaration,published,not supplied,10^-2 microampere
+ZrO2-pFeFET,Ps_over_Pr,1.25,1,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,ratio only; not absolute polarization
+ZrO2-pFeFET,Ec_positive_over_negative_magnitude,1/3,1,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,ratio only
+ZrO2-pFeFET,relative_permittivity,18,1,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,distinct empirical stack
+ZrO2-pFeFET,barrier_positive,2.5,V,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,barrier voltage multiplied by q in exponent
+ZrO2-pFeFET,barrier_negative,2.4,V,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,barrier voltage multiplied by q in exponent
+ZrO2-pFeFET,eta_positive,1.47,1,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,empirical current law
+ZrO2-pFeFET,eta_negative,1.93,1,https://repository.gatech.edu/server/api/core/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/content Fig3.11,direct declaration,published,not supplied,empirical current law
+capstone,window_coupling,3.076923076923077,V/(C/m2),projects/capstone.py,direct declaration,assumed,not measured,conditional read-window sensitivity; not measured
+capstone,polarization_sweep,0.08/0.10/0.13/0.16,C/m2,projects/capstone.py,direct declaration,assumed,not measured,separate scenario choices
+capstone,sigma_factor,0.8/1/1.2,1,projects/capstone.py,direct declaration,assumed,not measured,sensitivity scenarios not confidence interval

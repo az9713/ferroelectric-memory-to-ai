@@ -1,0 +1,9 @@
+{
+  "evidence": "T: point macro, arbitrary mm floorplan; weighted wirelength proxy",
+  "grid_best_weighted_mm": 26.0,
+  "x_mm": 1.0,
+  "y_mm": 5.0,
+  "candidate_count": 1215,
+  "global_scope": "enumerated grid only; ties possible",
+  "checks": "PASS: bounding box and keepout; not foundry DRC"
+}

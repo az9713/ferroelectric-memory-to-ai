@@ -1,0 +1,121 @@
+[
+  {
+    "id": "nc-conditions",
+    "url": "https://arxiv.org/pdf/2605.26536",
+    "accessed_utc": "2026-09-26T15:16:37.473366+00:00",
+    "status": 200,
+    "sha256": "a86b9921472c1b683358ec793ab90b927b7d5693628e0c88b41060671c456990"
+  },
+  {
+    "id": "architectures",
+    "url": "https://arxiv.org/pdf/2504.09713",
+    "accessed_utc": "2026-09-26T15:16:37.472869+00:00",
+    "status": 200,
+    "sha256": "970c7f9f3ec6e5ed2722df6d23338f13fa73cd0639832d4b74bdedfed091f60b"
+  },
+  {
+    "id": "domains",
+    "url": "https://arxiv.org/pdf/2507.18920v2",
+    "accessed_utc": "2026-09-26T15:16:37.473135+00:00",
+    "status": 200,
+    "sha256": "0068f7d23127a4a7706ed4074b30125379ff466a5e928e8f6b6cdf103313ecd1"
+  },
+  {
+    "id": "wang-thesis",
+    "url": "https://repository.gatech.edu/bitstreams/acec0317-6207-4ac1-9942-9906b5c1747e/download",
+    "accessed_utc": "2026-09-26T15:16:37.944383+00:00",
+    "status": 200,
+    "sha256": "092809ad302b86585f6845eacba9f1a67ba66a4c1c02303776b8c17727ca2645"
+  },
+  {
+    "id": "multidomain-thesis",
+    "url": "https://repository.gatech.edu/server/api/core/bitstreams/b5c4bb7a-fc02-4ac8-a6ae-5b0213c9ee51/content",
+    "accessed_utc": "2026-09-26T15:16:39.420374+00:00",
+    "status": 200,
+    "sha256": "19c73c78054dad01242a267b04a81691961fa7cbe5f7d1b4220c9902da646265"
+  },
+  {
+    "id": "preisach",
+    "url": "https://www.nature.com/articles/s41598-021-91492-w.pdf",
+    "accessed_utc": "2026-09-26T15:16:37.472436+00:00",
+    "status": 200,
+    "sha256": "fe9a71bdf29327858fba8e471fe9b778f7166de710adc9c3831cd89a09a26cc4"
+  },
+  {
+    "id": "oxidant",
+    "url": "https://arxiv.org/pdf/2603.10127",
+    "accessed_utc": "2026-09-26T15:19:27.495707+00:00",
+    "status": 200,
+    "sha256": "d17a9dc0b0f1a252e7a28b4ad2f98a67f44bad92c53ea5ab7487e3f3ac2aaf8d"
+  },
+  {
+    "id": "thermal",
+    "url": "https://arxiv.org/pdf/2606.08378",
+    "accessed_utc": "2026-09-26T15:19:27.495083+00:00",
+    "status": 200,
+    "sha256": "9159d70390c4e5e0ce54c6bddc35385effe53bdb39a2e97b98b3fde5db497a04"
+  },
+  {
+    "id": "first-switch",
+    "url": "https://arxiv.org/pdf/2601.21107",
+    "accessed_utc": "2026-09-26T15:19:27.496128+00:00",
+    "status": 200,
+    "sha256": "d0b0ce8f5ad6c6e530f3cd3eb3d004c651bf8579ce9e51007abe5e6ab6688659"
+  },
+  {
+    "id": "coercive",
+    "url": "https://arxiv.org/pdf/2609.20482",
+    "accessed_utc": "2026-09-26T15:19:28.754612+00:00",
+    "status": 200,
+    "sha256": "b7c264692cafdb64fc65812ddf17c67b369223fd0b4aafb1624474bc8ccf76d4"
+  },
+  {
+    "id": "radiation",
+    "url": "https://iris.unimo.it/retrieve/878aa781-0649-4375-b52a-17c6b5993821/%28L.%20Fernandes%20-%20ACS-NL%2C%202026%29%20published%20version.pdf",
+    "accessed_utc": "2026-09-26T15:19:27.494150+00:00",
+    "status": 200,
+    "sha256": "abc6f2dd33269909a1762d18281980adc6fef103b082efe5241016e544eb157e"
+  },
+  {
+    "id": "retention-ai",
+    "url": "https://arxiv.org/pdf/2603.06881v3",
+    "accessed_utc": "2026-09-26T15:19:28.507707+00:00",
+    "status": 200,
+    "sha256": "9c7b9fabf5cf9d60bc3b3b6b69586262b8c841ed005d40cef4bfc118a7cac333"
+  },
+  {
+    "id": "wake-up",
+    "url": "https://arxiv.org/pdf/2601.20271",
+    "accessed_utc": "2026-09-26T15:19:28.142400+00:00",
+    "status": 200,
+    "sha256": "7fe01a888ff4864e60fb26db23c587c1fde19ff749862eaa4002cf377681b283"
+  },
+  {
+    "id": "vertical-nand",
+    "url": "https://arxiv.org/pdf/2512.15988",
+    "accessed_utc": "2026-09-26T15:19:31.474203+00:00",
+    "status": 200,
+    "sha256": "eeb525f17d8be751f82bd838831c73960a20932d434f5ec9ec93fdc2c6f9dd3e"
+  },
+  {
+    "id": "agentic-tcad",
+    "url": "https://arxiv.org/pdf/2609.12184v2",
+    "accessed_utc": "2026-09-26T15:19:29.571956+00:00",
+    "status": 200,
+    "sha256": "d0c2656cc6ba9a8fb8cd08c6cefebf1db12b27f2ad792df3985247cf5d2136aa"
+  },
+  {
+    "id": "bto",
+    "url": "https://arxiv.org/pdf/2407.13953",
+    "accessed_utc": "2026-09-26T15:19:29.941801+00:00",
+    "status": 200,
+    "sha256": "a7f258ffd953c5ddc4ef419c98ad24773863c3ff3c7a5b809cf09e93ddff21d9"
+  },
+  {
+    "id": "preisach-supplement",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41598-021-91492-w/MediaObjects/41598_2021_91492_MOESM1_ESM.pdf",
+    "accessed_utc": "2026-09-26T15:24:31.808915+00:00",
+    "status": 200,
+    "sha256": "cf7a965cd58bf19763f5393dd6d02394a0ffed7967d30037d9d9179217cec0a1"
+  }
+]

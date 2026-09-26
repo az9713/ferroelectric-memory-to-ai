@@ -1,0 +1,51 @@
+{
+  "provenance": "Wang et al. 2021 Fig.2 synthetic parameters; seeded synthetic noisy data",
+  "Ps_C_m2": 0.14,
+  "Pr_C_m2": 0.13,
+  "Ec_V_m": 100000000.0,
+  "epsr": 33,
+  "tFE_m": 1e-08,
+  "charge_zero_field_MV_cm": 0.8864277917226439,
+  "linearized_crossing_MV_cm": 0.8875885353487568,
+  "crossing_underestimate_percent": 11.357220827735615,
+  "loop_loss_J_m3": 55999137.65503763,
+  "loop_loss_J_for_1um2_10nm": 5.599913765503762e-13,
+  "fit_parameters_Ps_uC_ratio_Ec_MV_epsr_offset_uC": [
+    14.009343727111139,
+    0.9280302791734858,
+    0.9993701416682897,
+    32.96359608942239,
+    -0.0030547853470162174
+  ],
+  "heldout_RMSE_uC_cm2": 0.1016730300169038,
+  "scaled_jacobian_singular_values": [
+    267.44763251194297,
+    162.495417366171,
+    23.108439519414098,
+    19.382454714993532,
+    1.812887002978171
+  ],
+  "saturated_only_fits": [
+    {
+      "parameters": [
+        13.369823464798081,
+        0.34125058687241644,
+        0.10348904418575527,
+        32.81969548553281,
+        0.6635450326461487
+      ],
+      "rmse_uC_cm2": 0.0872523215657221
+    },
+    {
+      "parameters": [
+        15.169499308146984,
+        0.7723551902863734,
+        0.2829642440805747,
+        32.81969660783984,
+        -1.1361311848485127
+      ],
+      "rmse_uC_cm2": 0.08725232158186885
+    }
+  ],
+  "checks": "PASS: units, remanence, symmetry, analytic loop area, held-out synthetic fit, input boundary"
+}

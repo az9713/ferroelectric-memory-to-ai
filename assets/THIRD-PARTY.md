@@ -1,0 +1,1 @@
+MathJax 3.2.2 tex-svg-full.js, bundled from jsDelivr npm/mathjax@3.2.2/es5/tex-svg-full.js. Apache License 2.0: MathJax-LICENSE.txt. Local rendering; no runtime CDN needed. Matplotlib generated scientific figures from the saved project inputs. Source PDFs retain original copyright and are local research copies, not a public redistribution license.

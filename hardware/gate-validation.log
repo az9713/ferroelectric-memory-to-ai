@@ -1,0 +1,3 @@
+VCD info: dumpfile controller.vcd opened for output.
+PASS: 11 checked transactions; latency, endpoints, fault, busy, reset-abort, persistence
+tb.v:50: $finish called at 506000 (1ps)

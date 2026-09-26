@@ -1,0 +1,31 @@
+{
+  "evidence": "T: assumed fixed polarization electrostatics at 300 K",
+  "thermal_voltage_V": 0.025851999786435535,
+  "ideal_swing_V_dec": 0.05952642933233172,
+  "CF_F_m2": 0.029218819782240002,
+  "CI_F_m2": 0.034531332469920004,
+  "depolarization_V_m": -203921081.60901734,
+  "interface_sweep": [
+    {
+      "interface_nm": 0.25,
+      "depolarization_MV_cm": -0.7768422156533993,
+      "FE_voltage_fraction_without_P": 0.8253968253968254
+    },
+    {
+      "interface_nm": 0.5,
+      "depolarization_MV_cm": -1.3227313401665988,
+      "FE_voltage_fraction_without_P": 0.7027027027027027
+    },
+    {
+      "interface_nm": 1,
+      "depolarization_MV_cm": -2.039210816090173,
+      "FE_voltage_fraction_without_P": 0.5416666666666666
+    },
+    {
+      "interface_nm": 2,
+      "depolarization_MV_cm": -2.7966319763522374,
+      "FE_voltage_fraction_without_P": 0.37142857142857144
+    }
+  ],
+  "checks": "PASS"
+}

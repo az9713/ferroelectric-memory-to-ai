@@ -1,0 +1,211 @@
+VERSION 5.8 ;
+BUSBITCHARS "[]" ;
+DIVIDERCHAR "/" ;
+MACRO FE_MEMORY_ABSTRACT
+ CLASS BLOCK ;
+ ORIGIN 0 0 ;
+ FOREIGN FE_MEMORY_ABSTRACT 0 0 ;
+ SIZE 80 BY 100 ;
+ SYMMETRY X Y ;
+ PIN CLK
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 3.00 2 4.00 ;
+  END
+ END CLK
+ PIN CS
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 6.60 2 7.60 ;
+  END
+ END CS
+ PIN WE
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 10.20 2 11.20 ;
+  END
+ END WE
+ PIN ADDR[0]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 13.80 2 14.80 ;
+  END
+ END ADDR[0]
+ PIN ADDR[1]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 17.40 2 18.40 ;
+  END
+ END ADDR[1]
+ PIN ADDR[2]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 21.00 2 22.00 ;
+  END
+ END ADDR[2]
+ PIN ADDR[3]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 24.60 2 25.60 ;
+  END
+ END ADDR[3]
+ PIN DIN[0]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 28.20 2 29.20 ;
+  END
+ END DIN[0]
+ PIN DIN[1]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 31.80 2 32.80 ;
+  END
+ END DIN[1]
+ PIN DIN[2]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 35.40 2 36.40 ;
+  END
+ END DIN[2]
+ PIN DIN[3]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 39.00 2 40.00 ;
+  END
+ END DIN[3]
+ PIN DIN[4]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 42.60 2 43.60 ;
+  END
+ END DIN[4]
+ PIN DIN[5]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 46.20 2 47.20 ;
+  END
+ END DIN[5]
+ PIN DIN[6]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 49.80 2 50.80 ;
+  END
+ END DIN[6]
+ PIN DIN[7]
+  DIRECTION INPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 53.40 2 54.40 ;
+  END
+ END DIN[7]
+ PIN DOUT[0]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 57.00 80 58.00 ;
+  END
+ END DOUT[0]
+ PIN DOUT[1]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 60.60 80 61.60 ;
+  END
+ END DOUT[1]
+ PIN DOUT[2]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 64.20 80 65.20 ;
+  END
+ END DOUT[2]
+ PIN DOUT[3]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 67.80 80 68.80 ;
+  END
+ END DOUT[3]
+ PIN DOUT[4]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 71.40 80 72.40 ;
+  END
+ END DOUT[4]
+ PIN DOUT[5]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 75.00 80 76.00 ;
+  END
+ END DOUT[5]
+ PIN DOUT[6]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 78.60 80 79.60 ;
+  END
+ END DOUT[6]
+ PIN DOUT[7]
+  DIRECTION OUTPUT ;
+  USE SIGNAL ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 78 82.20 80 83.20 ;
+  END
+ END DOUT[7]
+ PIN VDD
+  DIRECTION INOUT ;
+  USE POWER ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 85.80 2 86.80 ;
+  END
+ END VDD
+ PIN VSS
+  DIRECTION INOUT ;
+  USE GROUND ;
+  PORT
+   LAYER abstract_metal1 ;
+   RECT 0 89.40 2 90.40 ;
+  END
+ END VSS
+END FE_MEMORY_ABSTRACT
+END LIBRARY

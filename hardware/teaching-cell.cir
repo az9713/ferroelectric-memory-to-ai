@@ -1,0 +1,22 @@
+Illustrative ferroelectric-state read circuit; NOT a calibrated Khan device
+* x is a dimensionless state encoded as volts. Cx/Bstate realize an ODE.
+* tau=20ns is assumed. x'= (x-x^3+Vwrite)/tau, stable zero-bias states +/-1.
+.param tau=20n cs=1p
+Vwrite write 0 PWL(0 0 10n 0 11n 1.2 110n 1.2 111n 0 310n 0 311n -1.2 410n -1.2 411n 0 650n 0)
+Cx x 0 {cs} IC=-1
+Bstate 0 x I={cs/tau*(v(x)-v(x)*v(x)*v(x)+v(write))}
+* Read voltage is separate from the write forcing; isolation is ideal and unmodeled.
+Vread read 0 PWL(0 0 180n 0 181n .5 220n .5 221n 0 480n 0 481n .5 520n .5 521n 0 650n 0)
+Vdrain drain 0 .05
+* Simplified small-drain-bias conductance, beta=1m A/V^2; assumed thresholds.
+Bcell drain 0 I={1m*max(v(read)-(.5-.2*tanh(3*v(x))),0)*v(drain)}
+Bthreshold threshold 0 V={.5-.2*tanh(3*v(x))}
+.options reltol=1e-7 abstol=1e-14 vntol=1e-9 method=gear
+.control
+set wr_singlescale
+set wr_vecnames
+tran .2n 650n 0 .2n uic
+wrdata cell-waveform.dat v(write) v(read) v(x) v(threshold) i(Vdrain)
+quit
+.endc
+.end

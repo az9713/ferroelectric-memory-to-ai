@@ -1,0 +1,9 @@
+{
+  "classification": "illustrative teaching model; static published equation check; no measured-device calibration",
+  "static_max_error_C_m2": 1.3877787807814457e-16,
+  "on_current_A": 9.9505565e-06,
+  "off_current_A": -0.0,
+  "max_state_delta_half_timestep": 0.00010479453585993115,
+  "max_state_delta_python_solver": 0.00014093062823822278,
+  "checks": "PASS: finite outputs, initialized states, read distinction, timestep and cross-solver agreement"
+}

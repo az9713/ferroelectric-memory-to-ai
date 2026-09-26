@@ -1,0 +1,89 @@
+{
+  "evidence": "T: phenomenological educational cost model, no PDK characterization",
+  "capacity_bytes": 67108864,
+  "candidate_count": 24,
+  "feasible_count": 6,
+  "pareto_count": 6,
+  "pareto": [
+    {
+      "banks": 8,
+      "width_bits": 256,
+      "local_rows": 256.0,
+      "latency_ns": 4.334720000000001,
+      "access_energy_pJ": 291.264,
+      "area_mm2": 22.204436480000002,
+      "bandwidth_B_s": 59058024509.080154,
+      "error_probability": 0.0007244872253785311,
+      "feasible": true
+    },
+    {
+      "banks": 16,
+      "width_bits": 128,
+      "local_rows": 256.0,
+      "latency_ns": 4.078720000000001,
+      "access_energy_pJ": 181.632,
+      "area_mm2": 22.524436480000002,
+      "bandwidth_B_s": 62764788953.39713,
+      "error_probability": 0.0007244872253785311,
+      "feasible": true
+    },
+    {
+      "banks": 16,
+      "width_bits": 256,
+      "local_rows": 128.0,
+      "latency_ns": 3.09568,
+      "access_energy_pJ": 184.192,
+      "area_mm2": 22.93403648,
+      "bandwidth_B_s": 165391771759.35495,
+      "error_probability": 0.00019548943064558392,
+      "feasible": true
+    },
+    {
+      "banks": 32,
+      "width_bits": 64,
+      "local_rows": 256.0,
+      "latency_ns": 3.9507200000000005,
+      "access_energy_pJ": 162.816,
+      "area_mm2": 23.164436480000003,
+      "bandwidth_B_s": 64798315243.80364,
+      "error_probability": 0.0007244872253785311,
+      "feasible": true
+    },
+    {
+      "banks": 32,
+      "width_bits": 128,
+      "local_rows": 128.0,
+      "latency_ns": 2.8396800000000004,
+      "access_energy_pJ": 164.096,
+      "area_mm2": 23.57403648,
+      "bandwidth_B_s": 180302005859.81516,
+      "error_probability": 0.00019548943064558392,
+      "feasible": true
+    },
+    {
+      "banks": 32,
+      "width_bits": 256,
+      "local_rows": 64.0,
+      "latency_ns": 2.72192,
+      "access_energy_pJ": 166.656,
+      "area_mm2": 24.393236480000002,
+      "bandwidth_B_s": 376205031742.29956,
+      "error_probability": 8.516118106154205e-05,
+      "feasible": true
+    }
+  ],
+  "chosen_min_energy_per_byte": {
+    "banks": 32,
+    "width_bits": 256,
+    "local_rows": 64.0,
+    "latency_ns": 2.72192,
+    "access_energy_pJ": 166.656,
+    "area_mm2": 24.393236480000002,
+    "bandwidth_B_s": 376205031742.29956,
+    "error_probability": 8.516118106154205e-05,
+    "feasible": true,
+    "energy_pJ_per_byte": 5.208
+  },
+  "constraints": "latency <=15ns; area <=30mm2; raw BER <=1e-3",
+  "checks": "PASS: feasible/infeasible cases and exhaustive finite dominance"
+}

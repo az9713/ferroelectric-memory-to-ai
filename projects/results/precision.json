@@ -1,0 +1,56 @@
+{
+  "evidence": "T: quantized random linear layer; not language-model accuracy",
+  "rows": [
+    {
+      "bits": 2,
+      "relative_output_error": 0.9029786948767673,
+      "weight_bytes": 1024.0,
+      "feasible": false
+    },
+    {
+      "bits": 3,
+      "relative_output_error": 0.3587639402432387,
+      "weight_bytes": 1536.0,
+      "feasible": false
+    },
+    {
+      "bits": 4,
+      "relative_output_error": 0.1527528092379928,
+      "weight_bytes": 2048.0,
+      "feasible": false
+    },
+    {
+      "bits": 6,
+      "relative_output_error": 0.03342132746984299,
+      "weight_bytes": 3072.0,
+      "feasible": false
+    },
+    {
+      "bits": 8,
+      "relative_output_error": 0.008366696423704034,
+      "weight_bytes": 4096.0,
+      "feasible": true
+    },
+    {
+      "bits": 12,
+      "relative_output_error": 0.0005110350307994018,
+      "weight_bytes": 6144.0,
+      "feasible": true
+    },
+    {
+      "bits": 16,
+      "relative_output_error": 3.1204035526534786e-05,
+      "weight_bytes": 8192.0,
+      "feasible": true
+    }
+  ],
+  "chosen": {
+    "bits": 8,
+    "relative_output_error": 0.008366696423704034,
+    "weight_bytes": 4096.0,
+    "feasible": true
+  },
+  "prefill_128_tokens_compute_lower_bound_s": 0.004364435456,
+  "prefill_FLOPs": 4364435456.0,
+  "checks": "PASS: constrained precision selection and high-precision limit"
+}

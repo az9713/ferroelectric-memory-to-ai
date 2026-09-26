@@ -1,0 +1,18 @@
+Published static equation reproduction: increasing/decreasing major branches
+* Wang et al Sci Rep 2021 Figure 2 parameters; their synthetic example.
+* B sources report displacement density numerically as volts; not current prediction.
+.param ps=.14 pr=.13 ec=1e8 eps0=8.8541878128e-12 epsr=33 tf=10n
+.param slope={ln((ps+pr)/(ps-pr))/(2*ec)}
+Vfield f 0 0
+Bup up 0 V={ps*tanh(slope*(v(f)/tf-ec))+eps0*epsr*v(f)/tf}
+Bdown down 0 V={ps*tanh(slope*(v(f)/tf+ec))+eps0*epsr*v(f)/tf}
+.options reltol=1e-10 vntol=1e-12 abstol=1e-15
+.control
+set numdgt=15
+set wr_singlescale
+set wr_vecnames
+dc Vfield -4 4 .01
+wrdata static-branches.dat v(f) v(up) v(down)
+quit
+.endc
+.end
