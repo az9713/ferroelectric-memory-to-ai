@@ -1,42 +1,44 @@
-# Asif Khan research: materials to AI infrastructure
+# Ferroelectric Memory to AI
 
-**[Read the course as web pages](https://az9713.github.io/professor-asif-khan/)**
+From materials physics to memory systems and AI infrastructure.
+
+**[Read the course as web pages](https://az9713.github.io/ferroelectric-memory-to-ai/)**
 
 An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. Ten chapters and a capstone include worked examples, complete exercise solutions, source provenance, and executable projects.
 
 ## Start here
 
-- [15-minute research overview](https://az9713.github.io/professor-asif-khan/overview.html)
-- [Curriculum and prerequisite map](https://az9713.github.io/professor-asif-khan/curriculum.html)
-- [Publication inventory](https://az9713.github.io/professor-asif-khan/research/inventory.html)
-- [Research-theme map](https://az9713.github.io/professor-asif-khan/research/themes.html)
-- [Guided paper readings](https://az9713.github.io/professor-asif-khan/readings.html)
-- [Searchable glossary](https://az9713.github.io/professor-asif-khan/glossary.html)
+- [15-minute research overview](https://az9713.github.io/ferroelectric-memory-to-ai/overview.html)
+- [Curriculum and prerequisite map](https://az9713.github.io/ferroelectric-memory-to-ai/curriculum.html)
+- [Publication inventory](https://az9713.github.io/ferroelectric-memory-to-ai/research/inventory.html)
+- [Research-theme map](https://az9713.github.io/ferroelectric-memory-to-ai/research/themes.html)
+- [Guided paper readings](https://az9713.github.io/ferroelectric-memory-to-ai/readings.html)
+- [Searchable glossary](https://az9713.github.io/ferroelectric-memory-to-ai/glossary.html)
 
 ## Read the chapters
 
 | Chapter | Web page |
 |---|---|
-| 1 | [Semiconductor foundations](https://az9713.github.io/professor-asif-khan/chapters/01-foundations.html) |
-| 2 | [Materials, symmetry, and interfaces](https://az9713.github.io/professor-asif-khan/chapters/02-materials.html) |
-| 3 | [Models and identifiability](https://az9713.github.io/professor-asif-khan/chapters/03-models.html) |
-| 4 | [Programming, reading, and reliability](https://az9713.github.io/professor-asif-khan/chapters/04-devices.html) |
-| 5 | [Circuits, sensing, and arrays](https://az9713.github.io/professor-asif-khan/chapters/05-arrays.html) |
-| 6 | [Memory systems and reliability budgets](https://az9713.github.io/professor-asif-khan/chapters/06-memory.html) |
-| 7 | [Digital implementation and Verilog](https://az9713.github.io/professor-asif-khan/chapters/07-rtl.html) |
-| 8 | [Physical integration](https://az9713.github.io/professor-asif-khan/chapters/08-integration.html) |
-| 9 | [AI workloads and memory placement](https://az9713.github.io/professor-asif-khan/chapters/09-workloads.html) |
-| 10 | [Servers, racks, and useful work](https://az9713.github.io/professor-asif-khan/chapters/10-systems.html) |
-| Capstone | [Defend a cross-stack claim](https://az9713.github.io/professor-asif-khan/chapters/11-capstone.html) |
+| 1 | [Semiconductor foundations](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/01-foundations.html) |
+| 2 | [Materials, symmetry, and interfaces](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/02-materials.html) |
+| 3 | [Models and identifiability](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/03-models.html) |
+| 4 | [Programming, reading, and reliability](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/04-devices.html) |
+| 5 | [Circuits, sensing, and arrays](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/05-arrays.html) |
+| 6 | [Memory systems and reliability budgets](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/06-memory.html) |
+| 7 | [Digital implementation and Verilog](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/07-rtl.html) |
+| 8 | [Physical integration](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/08-integration.html) |
+| 9 | [AI workloads and memory placement](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/09-workloads.html) |
+| 10 | [Servers, racks, and useful work](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/10-systems.html) |
+| Capstone | [Defend a cross-stack claim](https://az9713.github.io/ferroelectric-memory-to-ai/chapters/11-capstone.html) |
 
 ## Projects and evidence
 
-- [Run the cumulative Python projects](https://az9713.github.io/professor-asif-khan/projects/guide.html)
-- [SPICE and process feasibility](https://az9713.github.io/professor-asif-khan/research/feasibility.html)
-- [Engineering reproduction instructions](https://az9713.github.io/professor-asif-khan/hardware/README.html)
-- [Scientific claim-to-source ledger](https://az9713.github.io/professor-asif-khan/research/source-ledger.html)
-- [Researcher identity and coverage](https://az9713.github.io/professor-asif-khan/research/identity-and-coverage.html)
-- [About, verification, and limitations](https://az9713.github.io/professor-asif-khan/about.html)
+- [Run the cumulative Python projects](https://az9713.github.io/ferroelectric-memory-to-ai/projects/guide.html)
+- [SPICE and process feasibility](https://az9713.github.io/ferroelectric-memory-to-ai/research/feasibility.html)
+- [Engineering reproduction instructions](https://az9713.github.io/ferroelectric-memory-to-ai/hardware/README.html)
+- [Scientific claim-to-source ledger](https://az9713.github.io/ferroelectric-memory-to-ai/research/source-ledger.html)
+- [Researcher identity and coverage](https://az9713.github.io/ferroelectric-memory-to-ai/research/identity-and-coverage.html)
+- [About, verification, and limitations](https://az9713.github.io/ferroelectric-memory-to-ai/about.html)
 
 The bibliography covers **September 26, 2021–September 26, 2026**: 101 deduplicated scholarly records, including 14 selected full-text assessments and 87 metadata-only entries. Original publications are linked to their lawful sources; third-party PDFs and private production records are not included.
 
