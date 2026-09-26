@@ -1,0 +1,22 @@
+{
+  "evidence": "Original illustrative calculations, not measured parameters",
+  "retention_crossover_s": 69.31471805599453,
+  "window_A_at_1ms_V": 1.1999940000299998,
+  "window_A_at_1000s_V": 0.6000272399578575,
+  "equal_prior_symbol_error_at_1_2V_span_0_05V_sigma": {
+    "2": 1.776482112077756e-33,
+    "4": 4.7506862749680076e-05,
+    "8": 0.0756667323069575,
+    "16": 0.39722887234386883
+  },
+  "span_for_interior_error_at_most_0_001_V": {
+    "8": 2.303368712044348,
+    "16": 4.935790097237889
+  },
+  "electrical_then_anneal_normalized_defects": 0.2,
+  "anneal_then_electrical_normalized_defects": 1.0,
+  "first_cheaper_surrogate_query": 101,
+  "surrogate_plus_TCAD_error_bound_mV": 45,
+  "total_energy_ratio_for_2pct_share_halved": 0.99,
+  "invalid_inputs_rejected": 6
+}

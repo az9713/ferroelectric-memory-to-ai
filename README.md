@@ -1,10 +1,17 @@
 # Ferroelectric Memory to AI
 
-From materials physics to memory systems and AI infrastructure.
+Ferroelectric materials, memory devices, and AI systems.
 
 **[Read the course as web pages](https://az9713.github.io/ferroelectric-memory-to-ai/)**
 
 An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. All ten chapters and the capstone are now expanded to approximately **50,000 words with 82 worked solutions**, sustained derivations, paper analysis, counterexamples, and executable experiments. Each chapter has section navigation. [See the depth revision and evidence](https://az9713.github.io/ferroelectric-memory-to-ai/textbook-depth.html).
+
+## Prof. Asif Khan's research
+
+- [Connected synthesis of 15 selected papers](https://az9713.github.io/ferroelectric-memory-to-ai/research-synthesis.html): a sustained research narrative covering conceptual evolution, technologies, implications, ten overlooked questions, and eight worked exercises.
+- [Prof. Asif Khan-only bibliography](https://az9713.github.io/ferroelectric-memory-to-ai/khan-bibliography.html): the 15 selected works and 87 other records, with author lists, dates, versions, and source links.
+
+The synthesis distinguishes reported findings from cross-paper interpretation and original teaching calculations. It complements the ten core chapters and capstone.
 
 ## Start here
 
@@ -56,6 +63,7 @@ python projects/polarization.py
 python projects/stack.py all
 python projects/capstone.py
 python projects/depth_lab.py
+python projects/research_synthesis.py
 ```
 
 SPICE requires ngspice. RTL simulation and synthesis require Icarus Verilog and Yosys; run `bash hardware/run-rtl.sh` from Linux, macOS, or WSL. See the engineering guide for the tested versions and model boundaries.
