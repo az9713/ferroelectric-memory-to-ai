@@ -4,7 +4,7 @@ Ferroelectric materials, memory devices, and AI systems.
 
 **[Read the course as web pages](https://az9713.github.io/ferroelectric-memory-to-ai/)**
 
-An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. All ten chapters and the capstone are now expanded to approximately **50,000 words with 82 worked solutions**, sustained derivations, paper analysis, counterexamples, and executable experiments. Each chapter has section navigation. [See the depth revision and evidence](https://az9713.github.io/ferroelectric-memory-to-ai/textbook-depth.html).
+An independent graduate-level learning program connecting materials physics, ferroelectric devices, memory arrays, digital implementation, AI workloads, and data-center energy. All ten chapters and the capstone include **82 worked solutions**, sustained derivations, paper analysis, counterexamples, and executable experiments. The guided introduction, paper guides, and chapter openings now build the physical background before introducing specialist terminology. Each chapter has section navigation. [See the depth revision and evidence](https://az9713.github.io/ferroelectric-memory-to-ai/textbook-depth.html).
 
 ## Prof. Asif Khan's research
 
@@ -15,7 +15,7 @@ The synthesis distinguishes reported findings from cross-paper interpretation an
 
 ## Start here
 
-- [15-minute research overview](https://az9713.github.io/ferroelectric-memory-to-ai/overview.html)
+- [Guided introduction: charge, materials, and memory](https://az9713.github.io/ferroelectric-memory-to-ai/overview.html)
 - [Curriculum and prerequisite map](https://az9713.github.io/ferroelectric-memory-to-ai/curriculum.html)
 - [Publication inventory](https://az9713.github.io/ferroelectric-memory-to-ai/research/inventory.html)
 - [Research-theme map](https://az9713.github.io/ferroelectric-memory-to-ai/research/themes.html)
